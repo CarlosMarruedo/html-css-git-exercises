@@ -4,3 +4,9 @@
   border-radius: 4px;
   background: #fff;
 }
+ul li {
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  padding: 0.5rem;
+}
